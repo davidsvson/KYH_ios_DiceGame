@@ -15,6 +15,25 @@ import SwiftUI
  Målet för spelet är att uppnå 100p på så få omgångar som möjligt
  ***/
 
+//V8
+//Ons david dicegame  + stäm av med thomas
+//Fre David
+//
+//
+//V9
+//Ons thomas
+//Fre David
+//
+//
+//V10
+//Ons David + Thomas
+//Fre David
+//
+//
+//V11
+//Ons David + Thomas
+//Fre David
+//
 
 
 struct ContentView: View {
